@@ -1,0 +1,6 @@
+numpy==1.26.2
+pandas==2.2.0
+simpy==4.0.2
+vidigi==1.0.2
+jupyter==1.1.1
+ciw==3.2.7
